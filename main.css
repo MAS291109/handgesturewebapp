@@ -9,7 +9,7 @@ span
 }
 #camera , #result
 {
-  border: 2px  black;
+  border: 2px dashed black;
   width: 300px;
   height: 300px;
 }
